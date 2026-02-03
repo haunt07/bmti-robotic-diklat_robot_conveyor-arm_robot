@@ -1,0 +1,20 @@
+{
+  "name": "arm_robot",
+  "version": "0.1.0",
+  "description": "Arduino library for controlling multi-servo robotic arms",
+  "keywords": [
+    "robot",
+    "robotic arm",
+    "servo",
+    "education",
+    "arduino"
+  ],
+  "frameworks": ["arduino"],
+  "platforms": "*",
+  "authors": [
+    {
+      "name": "Fachri Ilman Fauzandi",
+      "maintainer": true
+    }
+  ]
+}

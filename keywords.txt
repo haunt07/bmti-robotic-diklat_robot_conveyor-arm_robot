@@ -1,0 +1,5 @@
+ArmRobot	KEYWORD1
+
+begin	KEYWORD2
+moveAll	KEYWORD2
+moveInit	KEYWORD2
